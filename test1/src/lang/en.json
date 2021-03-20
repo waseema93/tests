@@ -1,0 +1,12 @@
+{
+  "movie":{
+    "back":"Back",
+    "invalidText":"Invalid Id"
+  },
+  "movies":{
+    "inputPlaceholder":"Enter IMBD Movie Ids Seperated By Comma",
+    "searchPlaceholder":"Type Here to Filter Movies With Title",
+    "searchImdb":"Search IMDB Movies",
+    "search":"Search"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "checkout":{
+    "checkout":"Back",
+    "details":"Details",
+    "payment":"Payment",
+    "success":"Success"
+  },
+  "details":{
+    "fillText":"Fill this form with your identity.",
+    "downloadText":"The Download link will be sent to this email."
+  },
+  "payment":{
+    "fillText":"Fill this form with your credit card details.",
+    "secureText":"Secure Payment"
+  }
+}
